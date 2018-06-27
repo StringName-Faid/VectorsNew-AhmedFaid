@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1524843864 source:e:\projects\vectors practice\vectors practice.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
+1524859228 source:f:\projects\vectors practice\vectors practice.cpp
+	<iostream>
+	<cmath>
+	<vector>
+	<stdlib.h>
+	<time.h>
+
